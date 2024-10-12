@@ -11,4 +11,6 @@ spec:
   ignore: |-
     # exclude all
     /*
-    # include charts direc
+    # include charts directory
+    !/erpnext/
+
