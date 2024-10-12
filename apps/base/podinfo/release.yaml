@@ -15,7 +15,7 @@ spec:
   values:
    persistence:
     worker:
-      storageClass: nfs-csi
+      storageClass: nfs
    mariadb:
     primary:
      persistence:
